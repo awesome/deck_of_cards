@@ -1,5 +1,5 @@
-# Deck of Cards - https://github.com/restc/deck_of_cards
-#### By Raleigh St. Clair 
+## Deck of Cards
+### By Raleigh St. Clair 
 ###### github: [@restc](https://www.github.com/restc) • twitter: [@raleighesc](https://www.twitter.com/raleighesc)
 
 Represent a deck of 52 playing cards. 
